@@ -1,0 +1,22 @@
+.game-container{
+    display: block;
+    height: 400px;
+    width: 50%;
+    background: gray;
+    border-radius: 5px;
+    margin-top: 40px;
+}
+.game-header{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    color: #031e0c;
+    font-weight: bold;
+    margin: 10px 0px 20px 0px;
+}
+.user-guess-cont,.win-cont,.losses,.guess-left,.guesses-so-far{
+    display: block;
+    font-size: 20px;
+    color: white;
+}
